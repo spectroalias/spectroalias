@@ -1,16 +1,17 @@
-### Hi there 👋
+### I code for fun and who doesn't like to have fun? Not me. 
 
-<!--
-**NKrChauhan/NKrChauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌱 I speak to computers using ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKrChauhan&hide=css,html&layout=compact&theme=dracula)](https://github.com/NKrChauhan/github-readme-stats)
 
-Here are some ideas to get you started:
+#### 🤔 Just some extra information
+![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=NKrChauhan&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+import MyDetails
+
+information = MyDetails()
+information.email        =     'nitishkumarchauhan1996@gmail.com'                    # Email
+information.code_profile =     'https://www.hackerrank.com/nAlias'                   # HackerRank Profile
+```
+Cheers, 
+Bye! 
