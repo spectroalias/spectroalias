@@ -1,12 +1,7 @@
-### I code for fun and who doesn't like to have fun? Not me. 
-
-#### 🌱 I speak to computers using ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKrChauhan&hide=css,html&layout=compact&theme=dracula)](https://github.com/NKrChauhan/github-readme-stats)
-
 #### 🤔 Just some extra information
 ![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=NKrChauhan&show_icons=true&theme=dracula&hide_title=true)
 
-```python
+```
 import MyDetails
 
 information = MyDetails()
