@@ -9,6 +9,6 @@ information.email        =     'nitishkumarchauhan1996@gmail.com'               
 information.code_profile =     'https://www.hackerrank.com/nAlias'                   # HackerRank Profile
 ```
 A Developer eats documentation and digest it to give solutions.
-Language was never a barrier.
+Language was never a barrier but paths to goals.
 Cheers, 
 Bye! 
