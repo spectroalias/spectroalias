@@ -1,5 +1,5 @@
 #### Looking for me ? oh, i see...
-##### Here you go , i am a Programmer & a Full-Stack Developer
+##### Here you go , i am an Engineer. I do full-stack for web/app development.
 
 ![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=NKrChauhan&show_icons=true&theme=dracula&hide_title=true)
 
