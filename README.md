@@ -13,6 +13,3 @@ Bringing Ideas to life.
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NKrChauhan&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
