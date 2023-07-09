@@ -18,10 +18,7 @@ Bringing Ideas to life.
   <a href="https://github.com/NKrChauhan?tab=repositories">
     <img src="https://badges.pufler.dev/repos/NKrChauhan?style=flat-square&color=black&logo=github">
   </a>
+  <a href="https://medium.com/@nitishkumarchauhan669">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white">
+  </a>
 </p>
-
-<p align="center">Take a look at my repositories and let's get in touch!</p> 
-
-<h2 align="center">  🌐 Socials </h2>
-
-  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nitishkumarchauhan669) 
