@@ -1,6 +1,6 @@
 <h1 align="center"> 💫 About Me </h1> 
 <p align="center"> I am an Engineer. I do full-stack web/app Development.
-Bringing Ideas to life.
+Bringing Ideas to live.
   </p>
 
 <h2 align="center"> 💻 Tech </h2> 
