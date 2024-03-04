@@ -18,7 +18,7 @@ Bringing Ideas to live.
   <a href="https://github.com/NKrChauhan?tab=repositories">
     <img src="https://badges.pufler.dev/repos/NKrChauhan?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://medium.com/@nitishkumarchauhan669">
+  <a href="https://medium.com/@nerdynews">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white">
   </a>
 </p>
