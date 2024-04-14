@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./coding.gif" height=300px >
 </p>
-<p align="center"> I am an Engineer, speciality in building Backend but can work on frontend with the help of stackoverflow 😜.
+<p align="center"> I am an engineer specializing in backend development, with a passion for full-stack development 😜.
 <p align="center">Bringing Ideas to live.</p>
   </p>
 
@@ -14,8 +14,8 @@
  ##  :zap: My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
  <div style="display: flex;">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NKrChauhan" alt="Gift's NKrChauhan" width=70%/>
-   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=NKrChauhan&show_icons=true" width=70%/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NKrChauhan" alt="Gift's NKrChauhan"/>
+   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=NKrChauhan&show_icons=true"/>
 </div>
 <br/>
 <p align=center>
