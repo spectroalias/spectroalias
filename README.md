@@ -1,4 +1,7 @@
 <h1 align="center"> 💫 About Me </h1> 
+<p align="center">
+  <img src="./coding.gif" height=300px >
+</p>
 <p align="center"> I am an Engineer, speciality in building Backend but can work on frontend with the help of stackoverflow 😜.
 <p align="center">Bringing Ideas to live.</p>
   </p>
