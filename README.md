@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/nitish-kumar-1000x/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitish-kumar-1000x/">
   </a>
-<a href="https://www.linkedin.com/in/nitish-kumar-1000x/">
+<a href="mailto:mail@jayrajroshan1@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@nkchauhan022@gmail.com">
   </a>
 <a href="https://www.instagram.com/nauti_ish/">
