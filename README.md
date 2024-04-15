@@ -40,7 +40,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 <br/>
-and many more to explore ...
 
 
  ##  :zap: My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
@@ -50,15 +49,8 @@ and many more to explore ...
    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=NKrChauhan&show_icons=true"/>
 </div>
 <br/>
-<p align=center>
-  <a href="https://github.com/NKrChauhan">
-    <img src="https://badges.pufler.dev/visits/NKrChauhan/NKrChauhan?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://medium.com/@nerdynews">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white">
-  </a>
-</p>
 
+<div align="center">
 <H3>📫 contact me:</H3>
 <a href="https://www.linkedin.com/in/nitish-kumar-1000x/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitish-kumar-1000x/">
@@ -69,4 +61,13 @@ and many more to explore ...
 <a href="https://www.instagram.com/nauti_ish/">
     <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nauti_ish/">
   </a>
-
+</div>
+<br/> <hr/>
+<div align=center>
+  <a href="https://medium.com/@nerdynews">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white">
+  </a>
+  <a href="https://github.com/NKrChauhan">
+    <img src="https://badges.pufler.dev/visits/NKrChauhan/NKrChauhan?style=flat-square&color=black&logo=github">
+  </a>
+</div>
