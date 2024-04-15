@@ -41,13 +41,12 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 <br/>
 
+<details style="display:flex;">
+  <summary><h2>:zap: My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h2></summary>
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NKrChauhan" alt="Gift's NKrChauhan"/>
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=NKrChauhan&show_icons=true"/>
+</details>
 
- ##  :zap: My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
-
- <div style="display: flex;">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NKrChauhan" alt="Gift's NKrChauhan"/>
-   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=NKrChauhan&show_icons=true"/>
-</div>
 <br/>
 
 <div align="center">
