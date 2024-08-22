@@ -43,8 +43,8 @@
 
 <details style="display:flex;">
   <summary><h2>:zap: My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h2></summary>
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NKrChauhan" alt="Gift's NKrChauhan"/>
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=NKrChauhan&show_icons=true"/>
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spectroalias" alt="Gift's spectroalias"/>
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=spectroalias&show_icons=true"/>
 </details>
 
 <br/>
@@ -66,7 +66,7 @@
   <a href="https://medium.com/@nerdynews">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white">
   </a>
-  <a href="https://github.com/NKrChauhan">
-    <img src="https://badges.pufler.dev/visits/NKrChauhan/NKrChauhan?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/spectroalias">
+    <img src="https://badges.pufler.dev/visits/spectroalias/spectroalias?style=flat-square&color=black&logo=github">
   </a>
 </div>
