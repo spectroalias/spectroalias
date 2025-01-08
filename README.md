@@ -43,7 +43,7 @@
 
 <details style="display:flex;">
   <summary><h2>:zap: My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h2></summary>
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spectroalias" alt="Gift's spectroalias"/>
+     <img align="center" src="https://streak-stats.demolab.com/?user=spectroalias" alt="Stats spectroalias"/>
      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=spectroalias&show_icons=true"/>
 </details>
 
