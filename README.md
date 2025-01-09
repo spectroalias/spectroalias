@@ -42,9 +42,10 @@
 <br/>
 
 <details style="display:flex;">
-  <summary><h2>:zap: My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h2></summary>
-     <img align="center" src="https://streak-stats.demolab.com/?user=spectroalias" alt="Stats spectroalias" width="100%" />
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=spectroalias&show_icons=true" width="100%"/>
+  <summary><h2>:zap: GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h2></summary>
+     <img src="https://github-readme-stats.vercel.app/api?username=spectroalias&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="Stats spectroalias" width="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spectroalias&theme=onedark&show_icons=true&hide_border=true&layout=compact" width="45%"/>
+<!--     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=spectroalias" width="33%"/></a> -->
 </details>
 
 <br/>
