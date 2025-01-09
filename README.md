@@ -2,7 +2,7 @@
 
 <table border="0px" align="center">
   <tr>
-    <td><img src="./coding.gif" width="auto" style="background-color: transparent;"></td>
+    <td><img src="./coding.gif" width="auto" style="background-color: transparent;"/></td>
     <td>
       <p align="center">An Engineer specializing in backend development with a passion for full-stack solutions. Focused on turning ideas into scalable, efficient systems. 😜</p>
     </td>
