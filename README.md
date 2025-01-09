@@ -1,6 +1,6 @@
 <h1 align="center"> 💫 About Me </h1> 
 <p align="center">
-  <img src="./coding.gif" height=300px >
+  <img src="./coding.gif" height=300px background-color: transparent;>
 </p>
 <p align="center"> I am an engineer specializing in backend development, with a passion for full-stack development 😜.
 <p align="center">Bringing Ideas to live.</p>
