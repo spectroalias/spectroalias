@@ -8,7 +8,7 @@
   </tr>
 </table>
 <details>
-  <summary><h2>💻 Tech</h2> <img src="https://static.wixstatic.com/media/95462a_cecaf57dc6264bcfa0d80512f0252372~mv2.gif" width=40px> </summary>
+  <summary><h2>:musical_keyboard:  Tech</h2> <img src="https://static.wixstatic.com/media/95462a_cecaf57dc6264bcfa0d80512f0252372~mv2.gif" width=40px> </summary>
   
   ### Languages:
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
