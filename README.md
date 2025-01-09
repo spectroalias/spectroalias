@@ -1,12 +1,15 @@
-<h1 align="center"> 💫 About Me </h1> 
-<p align="center">
-  <img src="./coding.gif" height=300px background-color: transparent;>
-</p>
-<p align="center"> I am an engineer specializing in backend development, with a passion for full-stack development 😜.
-<p align="center">Bringing Ideas to live.</p>
-  </p>
+<h1 align="center"> 💫 About Me </h1>
 
-<h2 align="center"> 💻 Tech </h2> 
+<table border="0px" align="center">
+  <tr>
+    <td><img src="./coding.gif" width="auto" style="background-color: transparent;"></td>
+    <td>
+      <p align="center">An Engineer specializing in backend development with a passion for full-stack solutions. Focused on turning ideas into scalable, efficient systems. 😜</p>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center"> 💻 Tech </h2>
 
 ### Languages:
 
