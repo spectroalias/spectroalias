@@ -47,7 +47,7 @@
   <summary><h2>:zap: GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h2></summary>
      <img src="https://github-readme-stats.vercel.app/api?username=spectroalias&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Stats spectroalias" width="35%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spectroalias&theme=dark&show_icons=true&hide_border=true&layout=compact" width="26.5%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=spectroalias&theme=dark&hide_border=true" width="37%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=spectroalias&theme=dark&hide_border=true" alt="stats" width="37%"/>
 </details>
 <hr/>
 <div align="center">
