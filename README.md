@@ -46,8 +46,8 @@
 <hr/>
 <div align="center">
 <h2>GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h2>
-    <img src="https://github-readme-streak-stats-five-topaz.vercel.app?user=spectroalias&theme=shadow-red&hide_border=true&short_numbers=true&card_height=196" alt="GitHub Streak" width="50%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spectroalias&theme=shadow_red&show_icons=true&hide_border=true&layout=compact" width="35%"/>
+    <img src="https://github-readme-streak-stats-five-topaz.vercel.app?user=spectroalias&theme=blue-navy&hide_border=true&short_numbers=true&card_height=196" alt="GitHub Streak" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spectroalias&theme=blue_navy&show_icons=true&hide_border=true&layout=compact" width="36%"/>
 </div>
 <hr/>
 <div align="center">
