@@ -7,8 +7,9 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
+<details>
+<summary><h5>Curious About My Tech Journey? Click me!</h5></summary>
+<div>
   <h2>Tech  <img src="https://static.wixstatic.com/media/95462a_cecaf57dc6264bcfa0d80512f0252372~mv2.gif" width=40px> </h2>
   
   ### Languages
@@ -49,23 +50,16 @@
     <img src="https://github-readme-streak-stats-five-topaz.vercel.app?user=spectroalias&theme=blue-navy&hide_border=true&short_numbers=true&card_height=196" alt="GitHub Streak" width="49%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spectroalias&theme=blue_navy&show_icons=true&hide_border=true&layout=compact" width="36%"/>
 </div>
-<hr/>
-<div align="center">
-<H3>📫 contact me:</H3>
-<a href="https://www.linkedin.com/in/nitish-kumar-1000x/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitish-kumar-1000x/">
+<br/>
+<div align="right">
+  <a href="https://www.linkedin.com/in/nitish-kumar-1000x/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
   </a>
-<a href="mailto:mail@nkchauhan022@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@nkchauhan022@gmail.com">
-  </a>
-<a href="https://www.instagram.com/nauti_ish/">
-    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nauti_ish/">
-  </a>
-</div>
-<br>
-<div align=center>
   <a href="https://medium.com/@nerdynews">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" height="25" />
   </a>
-  <img src="https://badges.pufler.dev/repos/spectroalias"/>
+  <a href="https://www.hackerrank.com/profile/nAlias">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" height="19"/>
+  </a>
 </div>
+</details>
