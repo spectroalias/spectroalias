@@ -10,6 +10,16 @@
 <details>
 <summary><h5>Curious About My Tech Journey? Click me!</h5></summary>
 <div>
+  <br/>
+
+<div align="right">
+  <a href="https://medium.com/@nerdynews">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" height="60" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/nAlias">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" height="44"/>
+  </a>
+</div>
   <h2>Tech  <img src="https://static.wixstatic.com/media/95462a_cecaf57dc6264bcfa0d80512f0252372~mv2.gif" width=40px> </h2>
   
   ### Languages
@@ -47,16 +57,7 @@
 <hr/>
 <div align="center">
 <h2>GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h2>
-    <img src="https://github-readme-streak-stats-five-topaz.vercel.app?user=spectroalias&theme=blue-navy&hide_border=true&short_numbers=true&card_height=196" alt="GitHub Streak" width="49%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spectroalias&theme=blue_navy&show_icons=true&hide_border=true&layout=compact" width="36%"/>
+    <img src="https://github-readme-streak-stats-five-topaz.vercel.app?user=spectroalias&theme=microsoft-dark&hide_border=true&short_numbers=true&card_height=196" alt="GitHub Streak" width="100%"/>
 </div>
 <br/>
-<div align="right">
-  <a href="https://medium.com/@nerdynews">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" height="25" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/nAlias">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" height="19"/>
-  </a>
-</div>
 </details>
