@@ -4,6 +4,7 @@
     <td>
       <h3 align="center"> 💫 About Me </h3>
       <p align="center">An Engineer specializing in backend development with a passion for full-stack solutions. Focused on turning ideas into scalable, efficient systems. 😜</p>
+      <p align="center"><a href="https://www.nitish-kumar.forgecartel.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="75%"/></a></p>
     </td>
   </tr>
 </table>
