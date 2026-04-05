@@ -90,4 +90,11 @@
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+*Thanks for stopping by — always open to interesting problems and collaborations.* 🤝
+
+</div>
+
 </details>
